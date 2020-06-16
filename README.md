@@ -6,3 +6,5 @@ McMaster-Carr Components: Compression Spring (6) , Screw Pack (100)
                                                   **IMPORTANT**
                                         **This is not finished, this is a prototype.**
     
+https://discord.gg/WgX5Sjs
+https://github.com/strangeparts/gasmask
