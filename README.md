@@ -2,7 +2,7 @@
 Simple, a one way mask valve for Strange Part's mask.
 Parts List:
 
-Master-Carr Component: Compression Spring
+McMaster-Carr Component: Compression Spring
 
 Specs for the Spring: (I couldn't find the part number)
 Spring Type	Compression
