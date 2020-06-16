@@ -4,5 +4,5 @@ Parts List:
 
 McMaster-Carr Components: Compression Spring (6) , Screw Pack (100)
                                                   **IMPORTANT**
-                                        nThis is not finished, this is a prototype.
+                                        **This is not finished, this is a prototype.**
     
